@@ -11,6 +11,9 @@ An expense tracker app built with Vue 3 and the composition API.
 -Vue Toastification for notifications
 
 -<script setup> syntax (Vue 3.2+)
+![Screenshot 2024-06-26 151220](https://github.com/ellamariani/vue-expensetracker/assets/154088681/f52fdd50-fcb2-4210-9315-6bdc1f317797)
+
+
 
 ## Project Setup
 
